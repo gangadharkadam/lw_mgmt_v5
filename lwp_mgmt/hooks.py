@@ -22,7 +22,7 @@ app_version = "0.0.1"
 # web_include_js = "/assets/lwp_mgmt/js/lwp_mgmt.js"
 
 fixtures = ["Custom Script"]
-
+fixtures = ["Custom Field"]
 
 # Home Pages
 # ----------
