@@ -46,7 +46,7 @@ fixtures = ["Custom Field"]
 
 # before_install = "lwp_mgmt.install.before_install"
 # after_install = "lwp_mgmt.install.after_install"
-after_install = "lwp_mgmt.config.lwp_calculate.after_install"
+#after_install = "lwp_mgmt.config.lwp_calculate.after_install"
 
 # Desk Notifications
 # ------------------
